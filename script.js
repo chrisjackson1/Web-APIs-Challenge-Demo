@@ -7,7 +7,7 @@ var score = 0;
 
 var quizContainer = document.getElementById('quiz');
 var results = document.getElementById('results');
-var startBtn = document.getElementById('start-button');
+var startButton = document.querySelector(".startBtn");
 
 
 //reset button
@@ -62,6 +62,12 @@ var questionsArray = [
     correctAnswer: 2,
   },
 ];
+
+function startGame() {
+console.log('working')
+}
+
+startButton.addEventListener('click', startGame)
 
 
 
