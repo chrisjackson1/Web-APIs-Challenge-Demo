@@ -28,7 +28,7 @@ Chris Jackson
 
 ## Screenshot
 
-![CodingQuiz](CodingQuiz.jpg)
+![CodingQuiz](CodingQuiz.jpg "Screenshot")
 
 ## Link to Deployed Application
 
