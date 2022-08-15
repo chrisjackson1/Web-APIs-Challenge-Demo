@@ -1,4 +1,4 @@
-# Web-APIs-Challenge-HW
+# Web-APIs-Challenge-Demo
 
 ## Description
 
